@@ -3,8 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Data
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext(DbContextOptions<DbContext> options) : DbContext(options)
     {
         public DbSet<User> Users { get; set; }
+        public DbSet<Workout> Workouts { get; set; }
     }
 }
