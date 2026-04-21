@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90AC3487-210A-4AD4-AEE1-E0E6BE23DFA0}|Data\\Data.csproj|c:\\users\\milan milosev\\desktop\\trainr\\server\\data\\repositories\\workoutrepositories\\workoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90AC3487-210A-4AD4-AEE1-E0E6BE23DFA0}|Data\\Data.csproj|solutionrelative:data\\repositories\\workoutrepositories\\workoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AC3487-210A-4AD4-AEE1-E0E6BE23DFA0}|Data\\Data.csproj|c:\\users\\milan milosev\\desktop\\trainr\\server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90AC3487-210A-4AD4-AEE1-E0E6BE23DFA0}|Data\\Data.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E29B2DD-D758-4920-9176-4C12D49DCD4B}|Domain\\Domain.csproj|c:\\users\\milan milosev\\desktop\\trainr\\server\\domain\\services\\workoutservices\\iworkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E29B2DD-D758-4920-9176-4C12D49DCD4B}|Domain\\Domain.csproj|solutionrelative:domain\\services\\workoutservices\\iworkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E29B2DD-D758-4920-9176-4C12D49DCD4B}|Domain\\Domain.csproj|c:\\users\\milan milosev\\desktop\\trainr\\server\\domain\\models\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E29B2DD-D758-4920-9176-4C12D49DCD4B}|Domain\\Domain.csproj|solutionrelative:domain\\models\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E29B2DD-D758-4920-9176-4C12D49DCD4B}|Domain\\Domain.csproj|c:\\users\\milan milosev\\desktop\\trainr\\server\\domain\\repositories\\workoutrepositories\\iworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E29B2DD-D758-4920-9176-4C12D49DCD4B}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\workoutrepositories\\iworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E29B2DD-D758-4920-9176-4C12D49DCD4B}|Domain\\Domain.csproj|c:\\users\\milan milosev\\desktop\\trainr\\server\\domain\\repositories\\userrepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E29B2DD-D758-4920-9176-4C12D49DCD4B}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\userrepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E29B2DD-D758-4920-9176-4C12D49DCD4B}|Domain\\Domain.csproj|c:\\users\\milan milosev\\desktop\\trainr\\server\\domain\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E29B2DD-D758-4920-9176-4C12D49DCD4B}|Domain\\Domain.csproj|solutionrelative:domain\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E29B2DD-D758-4920-9176-4C12D49DCD4B}|Domain\\Domain.csproj|c:\\users\\milan milosev\\desktop\\trainr\\server\\domain\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E29B2DD-D758-4920-9176-4C12D49DCD4B}|Domain\\Domain.csproj|solutionrelative:domain\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E29B2DD-D758-4920-9176-4C12D49DCD4B}|Domain\\Domain.csproj|c:\\users\\milan milosev\\desktop\\trainr\\server\\domain\\enums\\meal\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E29B2DD-D758-4920-9176-4C12D49DCD4B}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\meal\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E29B2DD-D758-4920-9176-4C12D49DCD4B}|Domain\\Domain.csproj|c:\\users\\milan milosev\\desktop\\trainr\\server\\domain\\enums\\meal\\mealtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E29B2DD-D758-4920-9176-4C12D49DCD4B}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\meal\\mealtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7CF47-E49F-49B3-BCF5-4566311F0B45}|server\\WebAPI.csproj|c:\\users\\milan milosev\\desktop\\trainr\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA7CF47-E49F-49B3-BCF5-4566311F0B45}|server\\WebAPI.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90AC3487-210A-4AD4-AEE1-E0E6BE23DFA0}|Data\\Data.csproj|c:\\users\\milan milosev\\desktop\\trainr\\server\\data\\repositories\\userrepositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90AC3487-210A-4AD4-AEE1-E0E6BE23DFA0}|Data\\Data.csproj|solutionrelative:data\\repositories\\userrepositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935A9006-3878-4B5C-8631-B9C4D82618E7}|Services\\Services.csproj|c:\\users\\milan milosev\\desktop\\trainr\\server\\services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935A9006-3878-4B5C-8631-B9C4D82618E7}|Services\\Services.csproj|solutionrelative:services\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7CF47-E49F-49B3-BCF5-4566311F0B45}|server\\WebAPI.csproj|c:\\users\\milan milosev\\desktop\\trainr\\server\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BA7CF47-E49F-49B3-BCF5-4566311F0B45}|server\\WebAPI.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7CF47-E49F-49B3-BCF5-4566311F0B45}|server\\WebAPI.csproj|c:\\users\\milan milosev\\desktop\\trainr\\server\\server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA7CF47-E49F-49B3-BCF5-4566311F0B45}|server\\WebAPI.csproj|solutionrelative:server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWorkoutService.cs",
+              "DocumentMoniker": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Services\\WorkoutServices\\IWorkoutService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\WorkoutServices\\IWorkoutService.cs",
+              "ToolTip": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Services\\WorkoutServices\\IWorkoutService.cs",
+              "RelativeToolTip": "Domain\\Services\\WorkoutServices\\IWorkoutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:55:36.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkoutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Data\\Repositories\\WorkoutRepositories\\WorkoutRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\WorkoutRepositories\\WorkoutRepository.cs",
+              "ToolTip": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Data\\Repositories\\WorkoutRepositories\\WorkoutRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\WorkoutRepositories\\WorkoutRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:31:45.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Models\\Food.cs",
+              "RelativeToolTip": "Domain\\Models\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:30:10.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Enums\\Meal\\Difficulty.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\Meal\\Difficulty.cs",
+              "ToolTip": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Enums\\Meal\\Difficulty.cs",
+              "RelativeToolTip": "Domain\\Enums\\Meal\\Difficulty.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:28:30.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MealType.cs",
+              "DocumentMoniker": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Enums\\Meal\\MealType.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\Meal\\MealType.cs",
+              "ToolTip": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Enums\\Meal\\MealType.cs",
+              "RelativeToolTip": "Domain\\Enums\\Meal\\MealType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:27:02.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Meal.cs",
+              "DocumentMoniker": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Models\\Meal.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Meal.cs",
+              "ToolTip": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Models\\Meal.cs",
+              "RelativeToolTip": "Domain\\Models\\Meal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:26:19.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Workout.cs",
+              "DocumentMoniker": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Models\\Workout.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Workout.cs",
+              "ToolTip": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Models\\Workout.cs",
+              "RelativeToolTip": "Domain\\Models\\Workout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:19:28.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:03:18.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWorkoutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Repositories\\WorkoutRepositories\\IWorkoutRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\WorkoutRepositories\\IWorkoutRepository.cs",
+              "ToolTip": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Repositories\\WorkoutRepositories\\IWorkoutRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\WorkoutRepositories\\IWorkoutRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:32:13.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Repositories\\UserRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\UserRepositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Repositories\\UserRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\UserRepositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:12:55.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Data\\Repositories\\UserRepositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\UserRepositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Data\\Repositories\\UserRepositories\\UserRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\UserRepositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:13:11.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\server\\appsettings.json",
+              "RelativeDocumentMoniker": "server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\server\\appsettings.json",
+              "RelativeToolTip": "server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T10:03:26.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\server\\Program.cs",
+              "RelativeDocumentMoniker": "server\\Program.cs",
+              "ToolTip": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\server\\Program.cs",
+              "RelativeToolTip": "server\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T18:38:57.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "server\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "server\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T18:33:14.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Services\\UserServices\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserServices\\UserService.cs",
+              "ToolTip": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Services\\UserServices\\UserService.cs",
+              "RelativeToolTip": "Services\\UserServices\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T18:25:46.371Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
