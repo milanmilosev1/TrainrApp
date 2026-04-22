@@ -1,5 +1,6 @@
 ﻿using Domain.Models;
 using Domain.Repositories.UserRepositories;
+using Microsoft.EntityFrameworkCore;
 
 namespace Data.Repositories.UserRepositories
 {
@@ -9,7 +10,7 @@ namespace Data.Repositories.UserRepositories
         public async Task<User> CreateAsync(User user)
         {
             var foundUser = await GetByIdAsync(user.Id);
-            if (foundUser.Id != Guid.Empty)
+            if (foundUser is null)
                 return new User();
 
             await _dbContext.Users.AddAsync(user);
@@ -27,11 +28,13 @@ namespace Data.Repositories.UserRepositories
             throw new NotImplementedException();
         }
 
-        public Task<User> GetByIdAsync(Guid id)
+        public async Task<User?> GetByEmailAsync(string? email)
         {
-            throw new NotImplementedException();
+            return await _dbContext.Users.FirstOrDefaultAsync(x => x.Email == email);
         }
 
+        public async Task<User?> GetByIdAsync(Guid id) =>
+            await _dbContext.Users.FindAsync(id);
         public Task<User> GetByUsernameAsync(string? username)
         {
             throw new NotImplementedException();

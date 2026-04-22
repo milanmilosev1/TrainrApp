@@ -1,8 +1,29 @@
 [
   {
-    "ContainingType": "WebAPI.Controllers.UserController",
-    "Method": "AddNewUser",
-    "RelativePath": "users",
+    "ContainingType": "WebAPI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "register",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -13,7 +34,7 @@
         "IsRequired": false
       },
       {
-        "Name": "Username",
+        "Name": "Name",
         "Type": "System.String",
         "IsRequired": false
       },
@@ -28,12 +49,88 @@
         "IsRequired": false
       },
       {
-        "Name": "IsActive",
-        "Type": "System.Boolean",
+        "Name": "Age",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Weigth",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Heigth",
+        "Type": "System.Int32",
         "IsRequired": false
       },
       {
         "Name": "CreatedAt",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "UpdatedAt",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPI.Controllers.UserController",
+    "Method": "AddNewUser",
+    "RelativePath": "users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PasswordHash",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Age",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Weigth",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Heigth",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "CreatedAt",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "UpdatedAt",
         "Type": "System.DateTime",
         "IsRequired": false
       }

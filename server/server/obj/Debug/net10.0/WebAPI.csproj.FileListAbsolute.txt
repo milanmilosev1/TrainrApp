@@ -162,3 +162,10 @@ C:\Users\Milan Milosev\Desktop\Trainr\server\server\obj\Debug\net10.0\ref\WebAPI
 C:\Users\Milan Milosev\Desktop\Trainr\server\server\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Milan Milosev\Desktop\Trainr\server\server\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Milan Milosev\Desktop\Trainr\server\server\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Milan Milosev\Desktop\Trainr\server\server\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Milan Milosev\Desktop\Trainr\server\server\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Milan Milosev\Desktop\Trainr\server\server\bin\Debug\net10.0\Data.dll
+C:\Users\Milan Milosev\Desktop\Trainr\server\server\bin\Debug\net10.0\Services.dll
+C:\Users\Milan Milosev\Desktop\Trainr\server\server\bin\Debug\net10.0\Data.pdb
+C:\Users\Milan Milosev\Desktop\Trainr\server\server\bin\Debug\net10.0\Services.pdb
+C:\Users\Milan Milosev\Desktop\Trainr\server\server\obj\Debug\net10.0\WebAPI.sourcelink.json

@@ -1,5 +1,9 @@
 using Data;
+using Data.Repositories.UserRepositories;
+using Domain.Repositories.UserRepositories;
+using Domain.Services.AuthServices;
 using Microsoft.EntityFrameworkCore;
+using Services.AuthServices;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +13,11 @@ var connecitonString = builder.Configuration.GetConnectionString("DefaultConnect
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(connecitonString));
+
+builder.Services.AddScoped<IAuthService, AuthService>();
+
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+
 
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi

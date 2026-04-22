@@ -3,11 +3,14 @@
     public sealed class User
     {
         public Guid Id { get; set; }
-        public string? Username { get; set; } = string.Empty;
+        public string? Name { get; set; } = string.Empty;
         public string? Email { get; set; } = string.Empty;
         public string? PasswordHash { get; set; } = string.Empty;
-        public bool IsActive { get; set; }
+        public int Age { get; set; }
+        public int Weigth { get; set; }
+        public int Heigth { get; set; }
         public DateTime CreatedAt { get; set; }
+        public DateTime UpdatedAt { get; set; }
 
         public User() => Id = Guid.Empty;
     }
