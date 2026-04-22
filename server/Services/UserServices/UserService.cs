@@ -11,29 +11,25 @@ namespace Services.UserServices
         public async Task<User> CreateNewUserAsync(User user) =>
             await _userRepository.CreateAsync(user);
 
-        public Task<User> ChangeUserInfoAsync(User user)
-        {
-            throw new NotImplementedException();
-        }
+        public async Task<User> ChangeUserInfoAsync(User user) =>
+            await _userRepository.UpdateAsync(user);
 
-        public Task<User> DeleteOrDeactivateUserAsync(User user)
+        public async Task<User> DeleteUserAsync(User user)
         {
-            throw new NotImplementedException();
+            var result = await _userRepository.DeleteAsync(user.Id);
+            
+            if (result is true)
+                return user;
+            else
+                return new User();
         }
+        public async Task<List<User>> GetAllUsersAsync() =>
+            await _userRepository.GetAllAsync();
 
-        public Task<List<User>> GetAllUsersAsync()
-        {
-            throw new NotImplementedException();
-        }
+        public async Task<User> GetUserByIdAsync(Guid id) =>
+            await _userRepository.GetByIdAsync(id);
 
-        public Task<User> GetUserByIdAsync(Guid id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<User> GetUserByUsernameAsync(string? username)
-        {
-            throw new NotImplementedException();
-        }
+        public async Task<User> GetUserByUsernameAsync(string? username) =>
+            await _userRepository.GetByUsernameAsync(username);
     }
 }

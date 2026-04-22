@@ -1208,6 +1208,20 @@
         "runtime": {
           "bin/placeholder/Domain.dll": {}
         }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
       }
     }
   },
@@ -3669,6 +3683,11 @@
       "type": "project",
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3681,6 +3700,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.6",
       "Microsoft.EntityFrameworkCore.Tools >= 10.0.6",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 10.0.1",
+      "Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 10.1.7"
     ]
   },
@@ -3722,6 +3742,9 @@
             },
             "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Domain.csproj": {
               "projectPath": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Domain\\Domain.csproj"
+            },
+            "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\Milan Milosev\\Desktop\\Trainr\\server\\Services\\Services.csproj"
             }
           }
         }
